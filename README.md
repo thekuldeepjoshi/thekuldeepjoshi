@@ -1,13 +1,13 @@
 # Hi, I'm Kuldeep Joshi 👋
 
-**Strategic Engineering Leader | Cloud & Scalable Systems | Python, Java, Kubernetes, GCP**
+**Strategic Engineering Leader | SOftware Engineers  | Python, Java, Kubernetes, GCP | MBA from LSE | MSc Computing Science**
 
 I’m passionate about building high-performance, reliable systems and mentoring engineering teams to deliver impactful software solutions. With 10+ years of experience across startups and global enterprises, I combine **technical expertise** with **strategic insight** to drive scalable software and team growth.
 
 ---
 
 ## 🛠️ **Core Skills**
-Python, Java, PHP, Cloud Architecture (GCP, AWS), Kubernetes, Microservices, Scalable Systems, CI/CD, Agile Delivery, Mentoring, Cross-Cultural Team Management
+Python, Java, PHP, Cloud Architecture (GCP, AWS), Kubernetes, Microservices, Scalable Systems, CI/CD, Agile Delivery, Mentoring, Mongodb, Strategic Planning (QBR/MBR)
 
 ---
 
@@ -30,8 +30,8 @@ Python, Java, PHP, Cloud Architecture (GCP, AWS), Kubernetes, Microservices, Sca
 
 ## 📫 **Connect With Me**
 - LinkedIn: [https://www.linkedin.com/in/thekuldeepjoshi](https://www.linkedin.com/in/thekuldeepjoshi)  
-- Email: kuldeep@example.com  
+- Email: Kuldeep.joshi197@gmail.com 
 
 ---
 
-✨ **Fun fact:** I love solving complex engineering problems and turning them into simple, reliable systems.
+✨ **Fun fact:** I love solving complex engineering problems and turning them into simple, reliable systems. And also Hiking, Mountain climbing, Kayaking and I can sing as well. 
